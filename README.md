@@ -14,7 +14,7 @@ There is a player (which has the ability to jump) and a board (which has "random
 The game runs using javascript for logic, react for rendering, and canvas for sprites. I expect to use javascript for the randomness of the platforms, and may need to approach collisions using canvas.
 
 ## Wireframes
-This will be a lot less involved than for your Full Stack Project, but make sure you have drawings for each view, including modals.
+<img src="https://image.ibb.co/gr0bAH/Screen_Shot_2018_03_20_at_10_50_33_PM.png" alt="Screen_Shot_2018_03_20_at_10_50_33_PM" border="0">
 
 ## Implementation Timeline:
 
