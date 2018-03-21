@@ -5,9 +5,13 @@ There is a player (which has the ability to jump) and a board (which has "random
 
 ## MVP
 1.) Board
+
 2.) Player
+
 3.) Start, pause, and reset of the game
+
 4.) Modal with rules of the game
+
 5.) Production ReadME
 
 ## Technologies, Libraries, APIs
