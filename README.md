@@ -22,8 +22,10 @@ Day 1) Board
   - sprite for platform
   - random size and placement of platforms
   - scrolling background
+  
 Day 2) Player
  - sprite for character
  - jumping
+ 
 Day 3) Start, pause, reset of game, production readme
  - modal
