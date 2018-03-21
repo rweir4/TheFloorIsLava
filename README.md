@@ -30,6 +30,8 @@ Day 1) Board
 Day 2) Player
  - sprite for character
  - jumping
+   - parabola based on arrow keys
+   - double jump
  
 Day 3) Start, pause, reset of game, production readme
  - modal
