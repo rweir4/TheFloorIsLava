@@ -23,8 +23,6 @@ The game runs using javascript for logic, vanilla for functionality, and canvas,
 ## Wireframes
 <img src="assets/images/wireframe.png">
 
-- has been modified
-
 ## Implementation Timeline:
 
 Day 1) Board
