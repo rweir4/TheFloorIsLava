@@ -13,15 +13,15 @@ There is a player (which has the ability to jump) and a board (which has "random
 
 3.) Start, pause, and reset of the game
 
-4.) Modal with rules of the game
+4.) Menu with rules of the game
 
 5.) Production ReadME
 
 ## Technologies, Libraries, APIs
-The game runs using javascript for logic, and canvas, HTML, and CSS for rendering and sprites. I expect to use javascript for the randomness of the platforms, and may need to approach collisions using canvas.
+The game runs using javascript for logic, vanilla for functionality, and canvas, HTML, and CSS for rendering and sprites.
 
 ## Wireframes
-<img src="https://image.ibb.co/gr0bAH/Screen_Shot_2018_03_20_at_10_50_33_PM.png" alt="Screen_Shot_2018_03_20_at_10_50_33_PM" border="0">
+<img src="assets/images/wireframe.png">
 
 - has been modified
 
@@ -40,3 +40,9 @@ Day 2) Player
 
 Day 3) Start, pause, reset of game, production readme
  - modal
+
+ ## Future Features
+
+ - Add gravity to fall
+ - Add real image for player that will change upon walk
+ - Add second level with more sparse platforms and double jump
