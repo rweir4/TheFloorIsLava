@@ -5,7 +5,61 @@
   margin-left: 22.5%;
 }
 
+#menu {
+  background-image: url('../images/lava.jpeg');
+  margin-left: 22.5%;
+  width: 800px;
+  height: 505px;
+  position: relative;
+}
+
+#menu p:first-of-type {
+  padding-top: 50px;
+}
+
+#menu p {
+  margin-left: 50px;
+}
+
+.hide {
+  display: none;
+}
+
 h1 {
   text-align: center;
-  font-family: 'Sigmar One', cursive;
+  font-family: 'Julius Sans One', sans-serif;
+}
+
+.links {
+  display: inline-block;
+  background: #4c1406;
+  margin-left: 22.5%;
+  width: 800px;
+  height: 120px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.links a {
+  color: white;
+  font-family:'Julius Sans One', sans-serif;
+  text-decoration: none;
+  margin: 20px;
+}
+
+p {
+  font-family:'Julius Sans One', sans-serif;
+  color: white;
+}
+
+button {
+  position: absolute;
+  top: 250px;
+  right: 250px;
+  padding: 20px;
+  border-radius: 5px;
+  font-size: 40px;
+  margin-top: 20px;
+  margin-left: 50px;
+  cursor: pointer;
 }
