@@ -13,6 +13,30 @@
   position: relative;
 }
 
+#game-over-menu {
+  background-image: url('../images/lava.jpeg');
+  margin-left: 22.5%;
+  width: 800px;
+  height: 505px;
+  position: relative;
+}
+
+#game-over-menu h1 {
+  padding-top: 50px;
+}
+
+#win-menu {
+  background-image: url('../images/lava.jpeg');
+  margin-left: 22.5%;
+  width: 800px;
+  height: 505px;
+  position: relative;
+}
+
+#win-menu h1 {
+  padding-top: 50px;
+}
+
 #menu p:first-of-type {
   padding-top: 50px;
 }
@@ -52,13 +76,36 @@ p {
   color: white;
 }
 
-button {
+#start {
   position: absolute;
   top: 250px;
   right: 250px;
   padding: 20px;
   border-radius: 5px;
   font-size: 40px;
+  margin-top: 20px;
+  margin-left: 50px;
+  cursor: pointer;
+}
+
+#to-start {
+  position: absolute;
+  top: 100px;
+  right: 310px;
+  padding: 15px;
+  border-radius: 5px;
+  font-size: 30px;
+  margin-top: 20px;
+  margin-left: 50px;
+  cursor: pointer;
+}
+#win-to-start {
+  position: absolute;
+  top: 100px;
+  right: 310px;
+  padding: 15px;
+  border-radius: 5px;
+  font-size: 30px;
   margin-top: 20px;
   margin-left: 50px;
   cursor: pointer;
