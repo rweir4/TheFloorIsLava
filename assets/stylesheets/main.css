@@ -71,6 +71,10 @@ h1 {
   margin: 20px;
 }
 
+.links a:hover {
+  text-decoration: underline;
+}
+
 p {
   font-family:'Julius Sans One', sans-serif;
   color: white;
